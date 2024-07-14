@@ -17,6 +17,7 @@ Dongmin's GitHub stats
 ![Dongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongmin0204&show_icons=true&hide=contribs,prs&show_icons=true&theme=skyblue)
 
 🐱 About Me
+
 ![Dongmin's email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 🏅 Algorithm Gold Level.
