@@ -2,7 +2,7 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=150&section=header&text=WELCOME"/>
 
-**Hi Welcome, i'm DongMin Baek 👋**
+**Hi Welcome, I'm DongMin Baek 👋**
 
 
 [INTRODUCE](https://possible-ceder-94b.notion.site/eef04aa991434113b712551d4134061a)
