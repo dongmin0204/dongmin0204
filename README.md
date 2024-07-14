@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
 Hi Welcome, i'm DongMin Baek 👋
 
@@ -15,7 +14,7 @@ Hi Welcome, i'm DongMin Baek 👋
 Dongmin's GitHub stats
 
 
-![Dongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongmin0204&show_icons=true&theme=radical)
+![Dongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongmin0204&show_icons=true&hide=contribs,prs&show_icons=true&theme=skyblue)
 
 🐱 About Me
 
@@ -30,3 +29,5 @@ Samsung SW Pro Level
 🏆 Awards
 
 update soon...
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
