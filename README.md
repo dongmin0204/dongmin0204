@@ -17,14 +17,11 @@ Dongmin's GitHub stats
 ![Dongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongmin0204&show_icons=true&hide=contribs,prs&show_icons=true&theme=skyblue)
 
 🐱 About Me
-
-Gmail Badge Notion Badge Velog Badge
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 🏅 Algorithm Gold Level.
 
-Solved.ac Profile
-Programmers - Lv3
-Samsung SW Pro Level
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nm2205)](https://solved.ac/nm2205)
 
 🏆 Awards
 
