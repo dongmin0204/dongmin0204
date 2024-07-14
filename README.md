@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi Welcome, i'm DongMin Baek 👋
 
-<!--
-**dongmin0204/dongmin0204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🛠️ Stacks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+       
+
+💪🏼 Tools
+
+     
+
+Dongmin's GitHub stats
+
+🐱 About Me
+
+Gmail Badge Notion Badge Velog Badge
+
+🏅 Algorithm Gold Level.
+
+Solved.ac Profile
+Programmers - Lv3
+Samsung SW Pro Level
+
+🏆 Awards
+
+update soon...
