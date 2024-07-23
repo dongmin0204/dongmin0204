@@ -35,7 +35,7 @@ Dongmin's GitHub stats
 
 🏆 Awards
 
-update soon...
+- 2024 제1회 동국대학교 AI융합소프트웨어학부 해커톤 최우수🏅
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=150&section=footer" />
 
