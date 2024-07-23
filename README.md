@@ -17,13 +17,16 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)
 
-💪🏼 Tools
      
-
 Dongmin's GitHub stats
 
 
 ![Dongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongmin0204&show_icons=true&hide=contribs,prs&show_icons=true&theme=skyblue)
+
+
+Dongmin's Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongmin0204&layout=compact&theme=dracula)
 
 🐱 About Me
 
