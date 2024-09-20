@@ -44,7 +44,7 @@
 
 ## 🌱Experiences
 동국대학교 SW융합 동아리 'Farm System' 3기  
-AiCPS (2024.07 ~ )
+AiCPS (2024.07 ~ )  
 동국대학교 불교축제 학생기획단 홍보국 소속 TF팀 FE팀원
   
 ## 🏆 Awards
