@@ -35,7 +35,8 @@
 ## 🐱 About Me
 
 ![Dongmin's email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Dongmin's linkedin](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/%EB%8F%99%EB%AF%BC-%EB%B0%B1-2b0345254/)
+[![Dongmin's LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin)](https://www.linkedin.com/in/%EB%8F%99%EB%AF%BC-%EB%B0%B1-2b0345254/)
+
   
 
 ## 🏅 Algorithm Level
