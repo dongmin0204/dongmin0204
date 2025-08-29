@@ -23,8 +23,7 @@
 ## Dongmin's GitHub stats
 
 
-![Dongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongmin0204&show_icons=true&hide=contribs,prs&show_icons=true&theme=skyblue&count_private=true)
-  
+![Dongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongmin0204&show_icons=true&show_icons=true&theme=skyblue&count_private=true)  
 
 
 ## 🐱 About Me
