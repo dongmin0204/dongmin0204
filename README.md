@@ -27,11 +27,6 @@
   
 
 
-## Dongmin's Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongmin0204&layout=compact&theme=dracula&count_private=true)
-  
-
 ## 🐱 About Me
 
 ![Dongmin's email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
