@@ -39,7 +39,8 @@
   
 
 ## 🌱Experiences
-동국대학교 SW융합 동아리 'Farm System' 3,4기  
+동국대학교 SW융합 동아리 'Farm System' 3기 보안/웹  
+동국대학교 SW융합 동아리 'Farm System' 4기 보안/웹 FE 파트장
 AiCPS (2024.07 ~ 2025.02)  
 동국대학교 불교축제 학생기획단 홍보국 소속 TF팀 FE팀원  
 동국대학교 AI/SW 동아리 'Farm System' 홈페이지 TF팀 FE 팀원  
