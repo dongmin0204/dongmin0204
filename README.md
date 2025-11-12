@@ -50,6 +50,7 @@ GDGoC 동국대 Web/App 3기 Core 멤버
 ## 🏆 Awards
 
 2024 제1회 동국대학교 AI융합소프트웨어학부 해커톤 최우수🏅
+2025 AIoT 창의적 공학 설계 경진대회 최우수🏅
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=150&section=footer" />
 
