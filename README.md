@@ -53,7 +53,7 @@ Dongguk iSN LAB (2026.01 ~ )
 2024 제1회 동국대학교 AI융합소프트웨어학부 해커톤 최우수🏅  
 2025 AIoT 창의적 공학 설계 경진대회 최우수🏅  
 [2025 동국대학교 첨단융합대학 X-THON 우수상](https://github.com/2025-X-Thon-Team10-JobShorts)🥈  
-[2025 동국대학교 오픈소스 개발 경진대회 2등](https://github.com/DGU-Cube-AI)🥈
+[2025 동국대학교 오픈소스 개발 경진대회 2등](https://github.com/DGU-Cube-AI)🥈  
 2025 SoftBank Cloud Hackathon Finalist 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=150&section=footer" />
 
