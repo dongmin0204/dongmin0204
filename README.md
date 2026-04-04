@@ -46,6 +46,7 @@ AiCPS (2024.07 ~ 2025.02)
 동국대학교 AI/SW 동아리 'Farm System' 홈페이지 TF팀 FE 팀원  
 GDGoC 동국대 Web/App 3기 Core 멤버  
 [FarmSystem](https://farmsystem.kr)
+Dongguk iSN LAB (2026.01 ~ )
   
 ## 🏆 Awards
 
