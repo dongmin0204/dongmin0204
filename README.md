@@ -119,9 +119,6 @@
 
 <div align="center">
 
-<a href="https://github.com/dongmin0204">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=dongmin0204&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
-</a>
 <a href="https://solved.ac/nm2205">
   <img height="150" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nm2205" />
 </a>
