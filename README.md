@@ -31,6 +31,15 @@
 ![Dongmin's email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![Dongmin's LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/%EB%8F%99%EB%AF%BC-%EB%B0%B1-2b0345254/)
 
+## Github Stats
+
+<div align="center">
+
+[![a1rhun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dongmin0204&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+
   
 
 ## 🏅 Algorithm Level
