@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:58A6FF&height=200&section=header&text=Dongmin%20Baek&fontSize=48&fontColor=58A6FF&fontAlignY=35&desc=Multimedia%20Software%20Engineering%20@%20Dongguk%20Univ.&descSize=16&descColor=8B949E&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:58A6FF&height=200&section=header&text=Dongmin%20Baek&fontSize=48&fontColor=58A6FF&fontAlignY=35&animation=fadeIn" width="100%" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-eeeeee?style=flat-square&logo=notion&logoColor=000000)](https://possible-ceder-94b.notion.site/eef04aa991434113b712551d4134061a)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%8F%99%EB%AF%BC-%EB%B0%B1-2b0345254/)
