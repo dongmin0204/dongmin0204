@@ -32,6 +32,7 @@
  
 | Period | Organization | Role |
 |:---|:---|:---|
+| 2026.01 ~ | [Dongguk Software Education Institute](https://sw.dongguk.edu/mainPage.do) | GPU Server Admin |
 | 2026.01 ~ | [Dongguk iSN LAB](https://sites.google.com/dgu.ac.kr/dongguk-univ-isn-lab/dgu-isn-lab?authuser=0) | Research Intern — FaaS Autoscaling |
 | 2025 | [GDGoC Dongguk](https://github.com/GDSC-DGU) | Web/App Core Member |
 | 2024.07 ~ 2025.02 | AiCPS LAB | Research Intern |
