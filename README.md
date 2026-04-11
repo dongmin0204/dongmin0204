@@ -13,7 +13,7 @@
 
 ---
 
-### ⚡ Tech Stack
+###  Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -28,7 +28,7 @@
 
 ---
 
-### 🔬 Experience
+###  Experience
  
 | Period | Organization | Role |
 |:---|:---|:---|
@@ -41,7 +41,7 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 <table>
   <tr>
@@ -103,7 +103,7 @@
 
 ---
 
-### 🏆 Awards
+###  Awards
 
 | Year | Award |
 |:---:|:---|
@@ -115,7 +115,7 @@
 
 ---
 
-### 📊 Stats
+###  Stats
 
 <div align="center">
 
