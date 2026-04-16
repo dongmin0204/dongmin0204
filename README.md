@@ -48,7 +48,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/2025-softbank-hackathon-final-navy/AI_Traffic_Controller">
-        <b>🥇 AI Traffic Controller</b>
+        <b>AI Traffic Controller</b>
       </a>
       <br/>
       <sub>SoftBank Cloud Hackathon Finalist</sub>
