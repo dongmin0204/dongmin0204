@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:58A6FF&height=200&section=header&text=Dongmin%20Baek&fontSize=48&fontColor=58A6FF&fontAlignY=35&animation=fadeIn" width="100%" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-eeeeee?style=flat-square&logo=notion&logoColor=000000)](https://possible-ceder-94b.notion.site/eef04aa991434113b712551d4134061a)
+[![Notion](https://img.shields.io/badge/Notion-eeeeee?style=flat-square&logo=notion&logoColor=000000)](https://possible-ceder-94b.notion.site/eef04aa991434113b712551d4134061a)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%8F%99%EB%AF%BC-%EB%B0%B1-2b0345254/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:)
 [![Solved.ac](https://img.shields.io/badge/solved.ac-17CE3A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDMgN2w5IDE1IDktMTV6Ii8+PC9zdmc+&logoColor=white)](https://solved.ac/nm2205)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-eeeeee?style=flat-square&logo=googlechrome&logoColor=000000)](https://dongmin0204.github.io/)
 </div>
 
 
