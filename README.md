@@ -131,6 +131,15 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dongmin0204&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true)](https://github.com/dongmin0204)
 
 </div>
+<p align="center">
+  <a href="https://gitfut.com/dongmin0204">
+    <img
+      src="https://gitfut.com/dongmin0204.png"
+      alt="My GitFut card"
+      width="220"
+    >
+  </a>
+</p>
 
 <div align="center">
 
